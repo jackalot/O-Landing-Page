@@ -1,3 +1,29 @@
-p {
-    font-size: 60px;
+header {
+    background-color: #1f2937;
+}
+/*put these values here so it will be easier later*/
+.Hero-Main-Text {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+.Header-Logo-Text {
+    color: #f9faf8;
+    font-size: 24px;
+}
+.button-color {
+    background-color: #3882f6;
+}
+.information-header-text {
+font-size: 36px;
+font-weight: bolder;
+color: #1f2937;
+}
+.quote-section-background-color {
+    color: #E5E7EB;
+}
+.quote-text {
+    font-size: 36px;
+   font-style: italic;
+    color: #1f2937;
 }
