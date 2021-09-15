@@ -1,5 +1,14 @@
 header {
-    background-color: #1f2937;
+    display: flex;
+    flex-direction: row;
+}
+header ul {
+    display: flex;
+    margin-left: auto;
+    list-style-type: none;
+}
+li {
+    margin-right: 20px;
 }
 /*put these values here so it will be easier later*/
 .Hero-Main-Text {
@@ -17,7 +26,7 @@ header {
 .information-header-text {
 font-size: 36px;
 font-weight: bolder;
-color: #1f2937;
+background-color: #1f2937;
 }
 .quote-section-background-color {
     color: #E5E7EB;
