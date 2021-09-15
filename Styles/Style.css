@@ -40,3 +40,9 @@ background-color: #1f2937;
    font-style: italic;
     color: #1f2937;
 }
+#awesome {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #1f2937;
+}
