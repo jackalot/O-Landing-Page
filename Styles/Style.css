@@ -41,9 +41,21 @@ background-color: #1f2937;
     color: #1f2937;
 }
 #awesome {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    
     background-color: #1f2937;
     color: #E5E7EB;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+#sick-pick {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.row-and-photo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
