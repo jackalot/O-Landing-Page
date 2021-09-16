@@ -86,3 +86,7 @@ h2 {
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+img {
+    display: flex;
+    flex: 0 1 auto;
+}
