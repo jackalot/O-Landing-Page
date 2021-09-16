@@ -101,3 +101,7 @@ img {
     font-style: italic;
      color: #1f2937;
 }
+.quote p span {
+    margin-left: 900px;
+    font-weight: bold;
+}
