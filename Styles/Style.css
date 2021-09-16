@@ -93,3 +93,8 @@ img {
 .quote {
     background-color: #E5E7EB;
 }
+.quote p {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
