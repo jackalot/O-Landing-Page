@@ -73,3 +73,7 @@ background-color: #1f2937;
     height: 40px;
     width: 50px;
 }
+h2 {
+    display: flex;
+    justify-content: center;
+}
