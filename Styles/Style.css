@@ -90,3 +90,6 @@ img {
     display: flex;
     flex: 0 1 auto;
 }
+.quote {
+    background-color: #E5E7EB;
+}
