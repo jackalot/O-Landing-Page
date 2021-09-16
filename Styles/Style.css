@@ -67,3 +67,9 @@ background-color: #1f2937;
     justify-content: flex-start;
     align-items: flex-end;
 }
+#Sign-Up {
+    background-color: #3882f6;
+    display: block;
+    height: 40px;
+    width: 50px;
+}
