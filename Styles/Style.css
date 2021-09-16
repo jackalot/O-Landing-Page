@@ -107,15 +107,32 @@ img {
 }
 .call-to-action {
     background-color: #3882f6;
-    width: 200px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     justify-content: center;
 }
 .call-to-action h3 {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    color: #E5E7EB;
+}
+.call-to-action p {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #E5E7EB;
+    font-size: 12px;
+}
+.call-to-action button {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: #3882f6;
+    display: block;
+    height: 40px;
+    width: 50px;
 }
